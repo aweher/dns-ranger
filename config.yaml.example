@@ -1,0 +1,9 @@
+---
+capture:
+  interface: eth0
+  timeout: 60 #not yet implemented
+  dumpstats: 10
+  resultsfile: domain_records.json
+  ignorehosts:
+    - 127.0.0.1
+    - 192.168.10.10
