@@ -162,4 +162,4 @@ cython_debug/
 config.yaml
 config.yml
 .venv-*
-domain_records.json
+*.json
